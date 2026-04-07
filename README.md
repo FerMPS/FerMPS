@@ -1,17 +1,102 @@
 # Fernando Manuel Palacios Soto
-### Full Stack Developer | Data & Cibersecurity Specialist
+
+### Full Stack Developer | Data & Cybersecurity Specialist
+
 ---
-## Professional Profile
-**IT professional with a background in computer systems, networking, and cybersecurity. Experienced in database management, process automation, and web development.**
 
-## Technical Skills
-* C# (ASP.NET), Java (Spring Boot), PHP (Laravel), Python, JavaScript.
-* SQL (MySQL, SQL Server, PostgreSQL), Google Apps Script.
-* Linux & Windows administration, Networking, and Cybersecurity.
-* Bilingual (Advanced English/Spanish) with experience in fast-paced technical support environments.
+## Tech Stack
 
-## Let's Connect
-* **LinkedIn:** [linkedin.com/in/fernando-soto-88615b25b](https://www.linkedin.com/in/fernando-soto-88615b25b)
-* **Web:** [fernando-soto-resume.vercel.app](https://fernando-soto-resume.vercel.app)
-* **Email:** [ps.fersoto@gmail.com](mailto:ps.fersoto@gmail.com)
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=cs,java,php,python,js" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,flask,nodejs" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,linux,windows,git" />
+
+</div>
+
+---
+
+## Core Expertise
+
+<table>
+<tr>
+<td>
+
+### Backend Development
+
+* ASP.NET (C#)
+* Spring Boot (Java)
+* Laravel (PHP)
+* Flask / Python APIs
+
+</td>
+<td>
+
+### Data & Automation
+
+* SQL (MySQL, PostgreSQL, SQL Server)
+* Google Apps Script
+* Process automation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Systems & Networking
+
+* Linux & Windows Admin
+* Network configuration
+* Troubleshooting
+
+</td>
+<td>
+
+### Cybersecurity
+
+* Security fundamentals
+* Risk analysis
+* Secure practices
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/fernando-soto-88615b25b">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://fernando-soto-resume.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:ps.fersoto@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
