@@ -45,28 +45,30 @@ I'm an IT professional with a background in computer systems, networking, and cy
 
 ---
 
-## Connect With Me
+## Connect
 
-<div align="center">
-
-<p>
-<a href="https://www.linkedin.com/in/fernando-soto-88615b25b">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
-<p>
-<a href="https://fernando-soto-resume.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
-<p>
-<a href="mailto:ps.fersoto@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-</div>
-
-
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/fernando-soto-88615b25b">
+        <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+      </a>
+      <br/>
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://fernando-soto-resume.vercel.app">
+        <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+      </a>
+      <br/>
+      <sub><b>Portfolio</b></sub>
+    </td>
+    <td align="center">
+      <a href="mailto:ps.fersoto@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+      </a>
+      <br/>
+      <sub><b>Email</b></sub>
+    </td>
+  </tr>
+</table>
