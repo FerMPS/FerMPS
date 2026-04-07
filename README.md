@@ -1,6 +1,4 @@
-# Fernando Manuel Palacios Soto
-
-### Full Stack Developer | Data & Cybersecurity Specialist
+# Full Stack Developer | Data & Cybersecurity Specialist
 
 ---
 
