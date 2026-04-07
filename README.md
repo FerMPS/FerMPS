@@ -22,8 +22,8 @@
 <td><img src="https://skillicons.dev/icons?i=cs" /></td>
 <td><img src="https://skillicons.dev/icons?i=java" /></td>
 <td><img src="https://skillicons.dev/icons?i=php" /></td>
-<td><img src="https://skillicons.dev/icons?i=python" /></td>
 <td><img src="https://skillicons.dev/icons?i=js" /></td>
+<td><img src="https://skillicons.dev/icons?i=python" /></td>
 </tr>
 
 <tr>
