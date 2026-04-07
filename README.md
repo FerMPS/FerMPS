@@ -1,7 +1,5 @@
 # Full Stack Developer | Data & Cybersecurity Specialist
 
----
-
 ## Tech Stack
 
 <table align="center" cellspacing="14">
