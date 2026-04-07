@@ -1,8 +1,6 @@
 # Full Stack Developer | Data & Cybersecurity Specialist
 I'm an IT professional with a background in computer systems, networking, and cybersecurity. Experienced in database management, process automation, and web development.
 
-## My Tech Stack
-
 <table align="center" cellspacing="14">
 
 <tr>
